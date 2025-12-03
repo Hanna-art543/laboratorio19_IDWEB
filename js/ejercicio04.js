@@ -8,3 +8,6 @@ async function obtenerSpriteCharizard() {
             console.log("Error al obtener datos de Charizard");
         }
 }
+
+
+

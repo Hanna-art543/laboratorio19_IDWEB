@@ -15,3 +15,5 @@ async function obtenerPikachu() {
         document.getElementById("info").textContent = "X Error al obtener información";
     }
 }
+
+
